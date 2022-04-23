@@ -11,7 +11,7 @@ Requires the following libraries
   <li> keras</li>
   <li> pandas</li>
   <li> Tensorflow</li>
-  <li> sklern.metrics</li>
+  <li> sklearn.metrics</li>
   <li> numpy</li>
   </ul>
   <p> all these  libraries can be installed by running the following </p>
