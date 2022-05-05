@@ -1,7 +1,7 @@
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=kalilinux-aptget.visitor-badge&left_color=green&right_color=red)
-## This is a password measuring web application written in Django
+## This is a malicious data sample detector measuring web application written in Django
 ### Requirements
-<li> TfidfVectorizer </li>
+<li> Numoy </li>
 <li> Sklearn </li>
 <li> Pandas</li>
 <li> tensorflow </li>
