@@ -1,7 +1,7 @@
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=kalilinux-aptget.visitor-badge&left_color=green&right_color=red)
 ## This is a malicious data sample detector measuring web application written in Django
 ### Requirements
-<li> Numoy </li>
+<li> Numpy </li>
 <li> Sklearn </li>
 <li> Pandas</li>
 <li> tensorflow </li>
