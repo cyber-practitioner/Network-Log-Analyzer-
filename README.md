@@ -18,4 +18,4 @@
  <li> Run the server<li>
   <code> py manage.py runserver</li>
 
-![front](https://user-images.githubusercontent.com/59438117/143777444-2bbb68c9-82c4-44f9-9b48-257843abde15.jpg)
+![image](https://user-images.githubusercontent.com/59438117/166890595-80517154-2b75-4960-9ba9-bf281bdf73ab.png)
