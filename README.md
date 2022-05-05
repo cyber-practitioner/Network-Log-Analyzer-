@@ -1,18 +1,21 @@
-# Intrusion-Detector
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=kalilinux-aptget.visitor-badge&left_color=green&right_color=red)
+## This is a password measuring web application written in Django
+### Requirements
+<li> TfidfVectorizer </li>
+<li> Sklearn </li>
+<li> Pandas</li>
+<li> tensorflow </li>
+<li> Django </li>
 
-Powered by an artificial neural Network
+#### Objective
+<p> To measure a password and provide three outcomes: <strong>strong, average and weak </strong> </p>
 
-Created using Djang Web framework
+### Instructions
+<ol>
+<li> Download the requirements</li>
+  <code> pip install requirements.py </code>
+  <li>Navigate to the folder where the files are installed </li>
+ <li> Run the server<li>
+  <code> py manage.py runserver</li>
 
-
-Requires the following libraries
-<ul>
-  <li> Django</li>
-  <li> keras</li>
-  <li> pandas</li>
-  <li> Tensorflow</li>
-  <li> sklearn.metrics</li>
-  <li> numpy</li>
-  </ul>
-  <p> all these  libraries can be installed by running the following </p>
-  <code> pip install -r requirements.py</code>
+![front](https://user-images.githubusercontent.com/59438117/143777444-2bbb68c9-82c4-44f9-9b48-257843abde15.jpg)
