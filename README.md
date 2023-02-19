@@ -8,7 +8,7 @@
 <li> Django </li>
 
 #### Objective
-<p> To measure a password and provide three outcomes: <strong>strong, average and weak </strong> </p>
+<p> To identify if there is an anomaly in the netwoek or not </strong> </p>
 
 ### Instructions
 <ol>
