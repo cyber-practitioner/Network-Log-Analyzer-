@@ -8,7 +8,7 @@
 <li> Django </li>
 
 #### Objective
-<p> To identify if there is an anomaly in the netwoek or not </strong> </p>
+<p>To ascertain the presence of any irregularities within the network. </strong> </p>
 
 ### Instructions
 <ol>
